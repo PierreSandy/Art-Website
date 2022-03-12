@@ -16,8 +16,6 @@ Project is created with:
 	
 ## Setup
 To run this project, use:
-
-```
 * Any code editor
 
-```
+
