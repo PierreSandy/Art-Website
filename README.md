@@ -7,7 +7,7 @@ Art Website
 * [Setup](#setup)
 
 ## General info
-This project is an mock website used to preview 
+This project is an mock website used to practice HTML & CSS Skills
 	
 ## Technologies
 Project is created with:
